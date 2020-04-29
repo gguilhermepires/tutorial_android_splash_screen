@@ -1,0 +1,4 @@
+#Wed Apr 29 10:37:19 BRT 2020
+base.0=C\:\\Users\\guilherme\\Desktop\\lixo\\tutorial_android_splash_screen\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
